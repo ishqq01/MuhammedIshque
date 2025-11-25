@@ -79,7 +79,9 @@ Optimized data models for smooth performance and reliable analytics across depar
 Built intuitive visualizations—including maps, funnels, bar charts, and scatter plots—to support quick insights and sales strategy evaluation.
 Designed user-friendly report navigation and automation that reduced manual reporting efforts and supported data-driven pipeline optimization.
 
-![image]()  
+![image](PowerBI.jpg.png)  
+
+[🔗 View Dashboard](https://www.linkedin.com/posts/muhammedishque_crm-dashboard-project-power-bi-x-business-activity-7385248492354560000-Eohn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnYKyEBBvjwW84rDP1Uo8LqEDS2CJgZq9c)
 
 
 
