@@ -62,6 +62,25 @@ Designed interactive charts, KPIs, and filters to enable drill-down exploration 
 ![image](Tableau.jpg.png) 
 
 
+### 📈 Power BI — CRM Sales Performance & Pipeline Analysis Dashboard 
+
+Developed an interactive Power BI dashboard to analyse CRM sales performance across teams, agents, industries, and regions. The dashboard helps management monitor sales effectiveness, understand deal trends, and improve pipeline visibility.
+
+🔍 Project Overview
+
+The dashboard provides a unified view of CRM data, enabling users to evaluate sales agent performance, analyze deal value trends, and assess the effectiveness of sales efforts across countries, industries, and product categories.
+
+✨ Key Features
+
+Developed an interactive dashboard analysing 3,000+ CRM records and $8.2M+ in total deal value, improving visibility into agent performance, conversion rates, and pipeline stages.
+Created more than 10 advanced DAX measures to accurately calculate KPIs such as conversion rate, sales cycle duration, and product-wise deal closures across multiple countries and industries.
+Optimized data models for smooth performance and reliable analytics across departments.
+
+
+Built intuitive visualizations—including maps, funnels, bar charts, and scatter plots—to support quick insights and sales strategy evaluation.
+Designed user-friendly report navigation and automation that reduced manual reporting efforts and supported data-driven pipeline optimization.
+
+
 
 
 
