@@ -86,4 +86,43 @@ Designed user-friendly report navigation and automation that reduced manual repo
 
 
 
+### 📊 HR Analytics Dashboard — SQL + Data Visualization
+
+This project focuses on transforming large-scale HR datasets using SQL and building an interactive dashboard to uncover long-term workforce patterns, salary trends, and department-level performance across the organisation.
+
+🔍 Project Overview
+
+Using 25 years of HR data, the dashboard provides a comprehensive view of employee demographics, payroll trends, attrition patterns, and departmental insights. SQL was used for data cleaning, transformation, and model preparation, while the visualization layer highlights key workforce trends.
+
+✨ Key Features
+
+Processed and transformed 100,000+ rows of raw HR data using SQL (Joins, Views, Window Functions) to prepare clean, analysis-ready tables.
+Built an interactive dashboard tracking,
+
+33.6K total employees
+
+200.48B+ total payroll
+
+59.9K+ employee resignations over 25 years
+
+Developed salary analytics visualizing yearly compensation trends, showing average salaries ranging from 400K–600K+ across departments.
+Designed gender distribution visuals reflecting an overall 60% male – 40% female workforce ratio.
+
+Created SQL views to extract the latest job titles, employee status, hire/resignation dates, aggregated salary, and departmental metrics.
+Performed department-level analysis across 10+ departments, identifying key contributors,
+
+Development: 76K+ employees, 80B+ payroll
+
+Production: 74K+ employees
+
+
+
+
+
+
+ 
+
+
+
+
 
