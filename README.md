@@ -58,6 +58,8 @@ Segmented and displayed the Top 10 Most Profitable Customers, enabling strategic
 Highlighted the Top 5 Customers by Sales Amount and Quantity, supporting sales teams with targeted insights.
 Designed interactive charts, KPIs, and filters to enable drill-down exploration and smooth user experience.
 
+![image]() 
+
 
 
 
