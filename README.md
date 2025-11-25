@@ -76,9 +76,10 @@ Developed an interactive dashboard analysing 3,000+ CRM records and $8.2M+ in to
 Created more than 10 advanced DAX measures to accurately calculate KPIs such as conversion rate, sales cycle duration, and product-wise deal closures across multiple countries and industries.
 Optimized data models for smooth performance and reliable analytics across departments.
 
-
 Built intuitive visualizations—including maps, funnels, bar charts, and scatter plots—to support quick insights and sales strategy evaluation.
 Designed user-friendly report navigation and automation that reduced manual reporting efforts and supported data-driven pipeline optimization.
+
+![image]()  
 
 
 
