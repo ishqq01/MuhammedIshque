@@ -168,7 +168,10 @@ Production: 74K+ employees
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="">Let’s connect on LinkedIn</a></td>
+      <td><a href="www.linkedin.com/in/
+muhammedishque
+Vanity URL name
+">Let’s connect on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
