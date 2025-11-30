@@ -133,6 +133,15 @@ Production: 74K+ employees
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white) 
+![DAX](https://img.shields.io/badge/-DAX-025E8C?logo=dax&logoColor=white)
+
+
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-1E90FF?logo=Bar-Chart&logoColor=white)
+![Power Query](https://img.shields.io/badge/-Power%20Query-4A9D5A?logo=Microsoft-Excel&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-5C2D91?logo=Databricks&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-0078D4?logo=Microsoft-Azure&logoColor=white)
+
+
 
 
 
