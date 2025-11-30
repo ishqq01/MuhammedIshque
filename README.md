@@ -61,6 +61,8 @@ Designed interactive charts, KPIs, and filters to enable drill-down exploration 
 
 ![image](Tableau.jpg.png) 
 
+[🔗 View Dashboard](https://www.linkedin.com/posts/muhammedishque_tableau-dataanalyics-datavisualisation-activity-7400783479866712064-8YDj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEnYKyEBBvjwW84rDP1Uo8LqEDS2CJgZq9c)  
+
 
 ### 📈 Power BI — CRM Sales Performance & Pipeline Analysis Dashboard 
 
@@ -162,7 +164,7 @@ Production: 74K+ employees
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="ishque_Data_Analyst.pdf">Download my CV</a></td>
+      <td><a href="D:\My details\muhammed_ishque_Data_Analyst (2).pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
