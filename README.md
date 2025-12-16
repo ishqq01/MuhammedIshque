@@ -116,9 +116,10 @@ Performed department-level analysis across 10+ departments, identifying key cont
 Development: 76K+ employees, 80B+ payroll
 
 Production: 74K+ employees
+ 
 
+[🔗 View Dashboard](https://www.linkedin.com/posts/muhammedishque_sql-powerbi-dataanalytics-activity-7403374553890222080-g6vR?utm_source=share&utm_medium=member_android&rcm=ACoAAEnYKyEBBvjwW84rDP1Uo8LqEDS2CJgZq9c )
 
-![image](HR view.jpg.png)  
 
 ## 📜 Certifications 
 
