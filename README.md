@@ -118,7 +118,7 @@ Development: 76K+ employees, 80B+ payroll
 Production: 74K+ employees
 
 
-
+![image](HR view.jpg.png)  
 
 ## 📜 Certifications 
 
