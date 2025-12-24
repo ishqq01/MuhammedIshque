@@ -156,7 +156,7 @@ Production: 74K+ employees
 
 
 
- ## Contact Details 
+ ## 📞 Contact Details 
  
 *Let’s connect and see how we can make a difference together!* 
  <table>
